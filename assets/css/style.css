@@ -1,0 +1,17 @@
+#nav{
+    background-color: black;
+    color: #888888;
+}
+#search{
+    color: white !important;
+}
+#navB{
+    color: white !important;
+}
+.gifs{
+    width: 200px;
+    
+}
+.searchButtons{
+    margin: 5px;
+}
